@@ -31,10 +31,11 @@ A step by step series of examples that tell you have to get a development env ru
 
 
    - If you have chosen to install anaconda then follow below instructions
-     - After all the files are saved in a folder in your machine. If you chosen to install anaconda from the steps given in 	               ```Prerequisites``` sections then open the anaconda prompt, change the directory to the folder where this project is saved in     your machine and type below command and press enter.
-	```
-	cd C:/your cloned project folder path goes here/
-	```
+     - After all the files are saved in a folder in your machine.    your machine and type below command and press enter.
+     - open anaconda promet and install the yaml file contain the libries for the peoject you can find instruction
+     
+      ``` conda env update -n my_env --file mlmodels.yaml ```
+      
      - Once you are inside the directory call the ```HomePage.py``` file, To do this, run below command in anaconda prompt.
 	```
 	Streamlit run  HomePage.py
