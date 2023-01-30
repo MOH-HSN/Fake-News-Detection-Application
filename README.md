@@ -42,5 +42,5 @@ A step by step series of examples that tell you have to get a development env ru
 	```
      - After hitting the enter, program will ask for an input which will be a piece of information or a news headline that you 	    	   want to verify. Once you paste or type news headline, and choose your model then press enter.
 
-     - Once you hit the enter, program will take user input (news headline) and will be used by model to classify in one of  categories of "True" and "False". Along with classifying the news headline, model will also provide a probability of truth associated with it.
+     - Once you hit the enter, program will take user input (news headline) and will be used by model to classify in one of  categories of "True" and "False". Along with classifying the news articles, model will also provide a probability of truth associated with it.
 
