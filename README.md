@@ -1,9 +1,10 @@
 # Fake-News-Detection-Application
 None
+'''
 # Fake News Articles Detection Using Machine-learning Techniques
 # A Research Submitted In Partial fulfillment for the Requirements of the
 # Degree of B.Sc. (Honors) in Electronics Engineering
-
+'''
 ## Prepared By:            
 1.Alameen Omer Alameen Ali.
 
