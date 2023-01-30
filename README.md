@@ -18,3 +18,28 @@
 
 ## Supervisor:
  Dr. Jacqueline. J. George
+
+
+
+# How to Run the Code
+
+* Download the File From there :
+
+### Installing and steps to run the software
+
+A step by step series of examples that tell you have to get a development env running
+
+
+   - If you have chosen to install anaconda then follow below instructions
+     - After all the files are saved in a folder in your machine. If you chosen to install anaconda from the steps given in 	               ```Prerequisites``` sections then open the anaconda prompt, change the directory to the folder where this project is saved in     your machine and type below command and press enter.
+	```
+	cd C:/your cloned project folder path goes here/
+	```
+     - Once you are inside the directory call the ```HomePage.py``` file, To do this, run below command in anaconda prompt.
+	```
+	Streamlit run  HomePage.py
+	```
+     - After hitting the enter, program will ask for an input which will be a piece of information or a news headline that you 	    	   want to verify. Once you paste or type news headline, and choose your model then press enter.
+
+     - Once you hit the enter, program will take user input (news headline) and will be used by model to classify in one of  categories of "True" and "False". Along with classifying the news headline, model will also provide a probability of truth associated with it.
+
